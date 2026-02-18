@@ -50,10 +50,10 @@ legendaryChoice(birdChoice);
 
 function alertPokemon() {
   alert("My favorite is Diglet!");
-  console.log("Consoled favorite pokemon");
+  console.log("Alerted favorite pokemon");
 }
 
 document.addEventListener("DOMContentLoaded", function () {
   let button = document.getElementById("pkm-btn");
-  button.addEventListenter("click", alertPokemon);
+  button.addEventListener("click", alertPokemon);
 });

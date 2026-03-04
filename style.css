@@ -1,0 +1,18 @@
+.header {
+    color:black;
+    background-color:red;
+    margin: 20px;
+    padding: 2px;
+}
+
+#mob-list {
+    width: 60%;
+    font-size: 18px;
+    background-color: darkred;
+    align-items: center;
+}
+
+#subheader {
+    border: 10px solid blue;
+    border-radius: 10px;
+}

@@ -1,0 +1,23 @@
+.header {
+    color:black;
+    background-color: #00693e;
+    margin: 20px;
+    padding: 2px;
+}
+
+#pokemon-list {
+    width: 60%;
+    font-size: 18px;
+    background-color: blueviolet;
+    align-items: center;
+}
+
+#sub-header {
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+#sub-headed {
+    border: 10px solid red;
+    border-radius: 10px;
+}

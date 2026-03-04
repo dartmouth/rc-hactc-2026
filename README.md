@@ -17,3 +17,14 @@ Some additional resources from **W3Schools**, another useful documentation site:
 - 🔗 [W3Schools CSS Guide](https://www.w3schools.com/css/)
 
 Documentation websites may be overwhelming at first, but familiarity with these resources will be invaluable.
+
+### 2/4 HTML and CSS Workshop
+
+If you all have some time and want to play around with some more CSS and HTML, I recommend
+trying this 1 hour course. It is free to get a Udemy account, and this specific course is
+also free:
+
+https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/
+
+Udemy is a great resource, I still use it occassionally when I am about to work on a project with
+a new tool/framework. I hope you all have a great weekend!

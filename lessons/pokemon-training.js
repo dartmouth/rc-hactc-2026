@@ -24,6 +24,11 @@ function trainPokemon(startLevel, endLevel) {
     // battlesWon + 1 == battlesWon
     battlesWon++;
 
+    if (currentLevel > endLevel) {
+      levelsGained -= currentLevel - endLevel;
+      currentLevel = endLevel;
+    }
+
     output += `Battle ${battlesWon}: Gained ${levelsGained} levels! Now level ${currentLevel}\n`;
   }
 

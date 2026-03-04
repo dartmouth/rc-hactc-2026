@@ -13,7 +13,7 @@ pokemonCount = 151;
 
 function mewDiscovered() {
     pokemonCount = 151;
-    console.log("Mew was discoverde, the new pokemon", pokemonCount)
+    console.log("Mew was discoverd, the new pokemon", pokemonCount)
 }
 
 mewDiscovered();
@@ -48,7 +48,7 @@ legendaryChoice(birdChoice);
 
 function alertpokemon() {
     alert("My favorite is diglet!");
-    console.log("consoled favorite pokemon");
+    console.log("Alerted favorite pokemon");
 }
 
 document.addEventListener("DOMContentLoaded", function() {
